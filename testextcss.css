@@ -1,3 +1,7 @@
-body{
-    background: purple;
+:root{
+  --color-1:#c678d9;
+  --color-2:#ae3ec9;
+  --color-3:#9435ab;
+  --color-4:#7a2b8d;
+  --color-5:#60226f;
 }
